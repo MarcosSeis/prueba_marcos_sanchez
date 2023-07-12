@@ -1,0 +1,41 @@
+.titulo {
+    text-align: center;
+}
+
+.imagen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.info{
+    text-align: center;
+    font-weight: 700;
+    color: rgb(206, 206, 27);
+}
+
+.centertext{
+    text-align: center;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+.carga {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

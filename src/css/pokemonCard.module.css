@@ -1,0 +1,12 @@
+.media_pokemon{
+    margin: 0 auto;
+}
+
+.text_pokemon{
+    text-align: center;
+    font-weight: bold;
+}
+
+.link {
+    text-decoration: none;
+}

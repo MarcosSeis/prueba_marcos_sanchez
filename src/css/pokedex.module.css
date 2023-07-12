@@ -1,0 +1,29 @@
+.pokedexContainer{
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.icono{
+    align-self: flex-end;
+    margin-bottom: 5px;
+}
+
+.textarea{
+    width: 200px;
+    margin: 5px;
+}
+
+.titulo {
+    padding: 2rem 0;
+    text-align: center;
+    font-size: 3.5rem !important;
+    font-weight: 700 !important;
+    color: yellow;
+}
+
+.carga {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
