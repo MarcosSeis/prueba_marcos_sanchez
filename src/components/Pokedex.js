@@ -31,7 +31,7 @@ const Pokedex = () => {
   const [filter, setFilter] = useState("");
 
   const handleSearch = (e) => {
-    setFilter(e.target.value)
+    setFilter(e.target.value.toLowerCase())
   }
 
   useEffect(() => {
